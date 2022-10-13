@@ -1,1 +1,1 @@
-The beautiful path
+Print the environment
