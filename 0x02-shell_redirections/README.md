@@ -1,1 +1,1 @@
-Script for a smiley
+Write a script
