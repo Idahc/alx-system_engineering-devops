@@ -1,1 +1,1 @@
-Print the environment
+local variables
