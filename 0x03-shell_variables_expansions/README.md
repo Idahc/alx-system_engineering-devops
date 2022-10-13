@@ -1,1 +1,1 @@
-13 print
+12 combs
